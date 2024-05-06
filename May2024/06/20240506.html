@@ -1,0 +1,25 @@
+<style>
+  * {
+    margin: 0;
+  }
+  body {
+    height: 300px;
+    background-image: linear-gradient(0deg, #4f77ff 148Q, #eff8fe 148Q 169Q, #4f77ff 169Q);
+  }
+  body:before,
+  body:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 423Q;
+    height: 63Q;
+    display: block;
+    content: '';
+    z-index: 1;
+    background-image: repeating-linear-gradient(90deg, #4f77ff, #4f77ff 40px, #eff8fe 40px, #eff8fe 60px);
+    margin-top: 43Q;
+  }
+  body:after {
+    margin-top: 212Q;
+  }
+</style>
