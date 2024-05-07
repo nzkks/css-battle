@@ -1,0 +1,52 @@
+<style>
+  * {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    background: #0a6190;
+    height: 300Q;
+  }
+  html:before,
+  html:after,
+  body:before,
+  body:after {
+    position: absolute;
+    display: block;
+    content: '';
+  }
+  html:before,
+  html:after {
+    width: 212Q;
+    height: 95Q;
+  }
+  html:before {
+    top: 64Q;
+    left: 106Q;
+    background: #328fc1;
+  }
+  html:after {
+    top: 159Q;
+    left: 106Q;
+    background: #eff8fe;
+  }
+  body:before,
+  body:after {
+    width: 31Q;
+    height: 31Q;
+    border-radius: 50%;
+    z-index: 1;
+  }
+  body:before {
+    top: 80Q;
+    left: 122Q;
+    background: #eff8fe;
+    box-shadow: 48Q 0 0 0 #eff8fe, 95Q 0 0 0 #eff8fe;
+  }
+  body:after {
+    top: 207Q;
+    left: 175Q;
+    background: #328fc1;
+    box-shadow: 48Q 0 0 0 #328fc1, 95Q 0 0 0 #328fc1;
+  }
+</style>
