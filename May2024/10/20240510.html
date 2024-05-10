@@ -1,0 +1,49 @@
+<div><p /></div>
+<style>
+  html {
+    background: #512b2a;
+  }
+  div,
+  p,
+  p:before,
+  p:after {
+    position: absolute;
+  }
+  p:before,
+  p:after {
+    display: block;
+    content: '';
+  }
+  div {
+    top: 90;
+    left: 100;
+    width: 200;
+    height: 120;
+    background: #ea6b62;
+    border-radius: 21Q;
+  }
+  p {
+    top: 14;
+    left: 30;
+    width: 100;
+    height: 60;
+    background: #512b2a;
+    border-radius: 11Q;
+  }
+  p:before {
+    top: 90;
+    left: 0;
+    border: solid 22Q #ea6b62;
+    border-right-color: #512b2a;
+    border-bottom-color: #512b2a;
+  }
+  p:after {
+    top: 1;
+    right: -32;
+    width: 41;
+    height: 58;
+    background: #512b2a;
+    clip-path: polygon(50% 0, 0 100%, 100% 100%);
+    transform: rotate(-90deg);
+  }
+</style>
