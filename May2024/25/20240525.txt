@@ -1,0 +1,4 @@
+<a><dl><p><style>html{background:#DBBA30;margin:42 92}body,p{background:#A95415}a,dl,p{position:absolute}a,dl{width:200;height:200;border:solid 43q#DBBA30;margin:40}p{width:41;height:41;top:-137;left:-121;box-shadow:85q 85q#A95415
+
+
+230 characters
