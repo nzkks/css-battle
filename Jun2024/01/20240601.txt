@@ -1,6 +1,0 @@
-<p><p a><style>&{background:#0a6190}p{width:100;height:200;background:#328fc1;margin:100 92}[a]{margin:-400 292
-
-=======================
-
-characters: 111
-score: 738.87

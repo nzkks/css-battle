@@ -1,1 +1,0 @@
-<p><dl><dt><style>&{background:#ffc}*{position:absolute}dl,p{width:200;height:100;border:solid 43q#EDAF38;left:52}dl{top:-84}p{top:156}dt{width:40;height:300;background:#EDAF38;left:80;top:20

@@ -1,3 +1,0 @@
-<p a><p><style>body{background:#4F77FF;margin:80 60;display:flex}p{width:100;height:100;background:#fff;border-radius:50%;margin:20;position:relative}p:before,p:after{position:absolute;content:'';width:20;height:60;background:#4F77FF;border-radius:10q;top:20;left:40}p:after{rotate:90deg}[a]{rotate:45deg
-
-304
