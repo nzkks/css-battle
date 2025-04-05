@@ -1,0 +1,7 @@
+`<dt><p><p><style>*{position:fixed;background:#8cd5f5}dt{margin:102;width:180;height:80;background:#328fc1}p{+p{margin:0 135}margin:0-35;width:60;height:60;border:solid 10px#328fc1;border-radius:50%`
+
+| Characters | Score 🏆 | %   |
+| ---------- | -------- | --- |
+| 197        | 661.18   | 100 |
+
+![](/2024/sep2024/13/20240913.png)
